@@ -9,7 +9,8 @@ Jump on platforms, avoid falling, and score points!
 - **Mobile:** Swipe left/right to move, touch to restart.
 
 ---
-## Live Demo: [https://ball-jumping-gamev1.vercel.app/] (https://ball-jumping-gamev1.vercel.app/) 
+## Live Demo  
+Try it here 👉 [https://ball-jumping-gamev1.vercel.app/](https://ball-jumping-gamev1.vercel.app/)
 ---
 ## Features
 - Smooth jumping and gravity.  
