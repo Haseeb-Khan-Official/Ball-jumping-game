@@ -16,6 +16,6 @@ Try it here 👉 [https://ball-jumping-gamev1.vercel.app/](https://ball-jumping-
 - HTML5 Canvas  
 - CSS  
 
-### How to Run
-Open *`index.html`* in a modern browser with the *`assets`* folder in place.
----
+  How to Run
+Open *index.html* in a modern browser with the *assets* folder in place.
+
